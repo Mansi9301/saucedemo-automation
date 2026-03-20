@@ -39,7 +39,7 @@ built with Python and Selenium WebDriver using the Page Object Model (POM) patte
 ## How to Run
 
 ### 1. Clone the repo
-git clone https://github.com/YOURUSERNAME/saucedemo-automation.git
+git clone https://github.com/Mansi9301/saucedemo-automation.git
 cd saucedemo-automation
 
 ### 2. Create virtual environment
