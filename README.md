@@ -1,4 +1,16 @@
 # saucedemo-automation
+## About This Project
+
+This project is an end-to-end automated test suite for a web-based 
+e-commerce application (saucedemo.com), built to demonstrate real-world 
+QA automation skills. It validates critical user workflows including login 
+authentication, shopping cart management, and complete checkout flows — 
+the same scenarios a QA engineer would verify before any production release.
+
+The framework is built in Python using Selenium WebDriver and follows the 
+Page Object Model (POM) design pattern, which separates page structure from 
+test logic for better maintainability and scalability.
+
 # Saucedemo Automation Test Suite
 
 Automated end-to-end test suite for [saucedemo.com](https://www.saucedemo.com) 
