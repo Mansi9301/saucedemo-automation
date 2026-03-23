@@ -4,12 +4,22 @@
 This project is an end-to-end automated test suite for a web-based 
 e-commerce application (saucedemo.com), built to demonstrate real-world 
 QA automation skills. It validates critical user workflows including login 
-authentication, shopping cart management, and complete checkout flows — 
+authentication, shopping cart management, and complete checkout flows
 the same scenarios a QA engineer would verify before any production release.
 
 The framework is built in Python using Selenium WebDriver and follows the 
 Page Object Model (POM) design pattern, which separates page structure from 
 test logic for better maintainability and scalability.
+
+Project 1 — E-Commerce QA Automation Suite
+
+Situation: After my Dell co-op I recognized that most QA job postings in Ottawa were requiring automation skills specifically Selenium and Python which I hadn't formally demonstrated in a project. I had manual testing experience but no portfolio evidence of automation.
+
+Task: I decided to build a complete end-to-end automation framework from scratch, independently, to prove I could design and implement a real test suite — not just follow tutorials.
+
+Action: I built a 16-test automation suite using Selenium WebDriver and Python, following the Page Object Model design pattern to separate page structure from test logic. I created three test files covering login validation, shopping cart workflows, and a complete checkout flow. I set up Pytest fixtures for automatic browser setup and teardown using ChromeDriver and WebDriver Manager, and integrated Pytest-HTML for test reporting. I tested across Windows, Linux, and macOS environments and deployed the entire project to GitHub with a full README.
+
+Result: All 16 tests pass consistently. The project demonstrates real automation architecture skills not just scripting and is publicly visible on GitHub. 
 
 # Saucedemo Automation Test Suite
 
